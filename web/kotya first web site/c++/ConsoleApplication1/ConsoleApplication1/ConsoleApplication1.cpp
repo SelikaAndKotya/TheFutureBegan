@@ -8,13 +8,16 @@ using namespace std;
 
 int main()
 {
-	double a, b, c;
-	cout << "A =" ;
+	double a, b, c, i, j;
+		cout << "A =" ;
 	cin >> a;
 	cout << "B =" ;
 	cin >> b;
-	c =sqrt (a *a + b *b);
+	c = sqrt (a *a + b *b);
 	cout << "C =" ;
-	cout << c  ;
-	 
+	cout << c  <<endl;
+	
+	cout << "done";
+	cin >> i;
+
 }
