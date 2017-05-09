@@ -14,8 +14,7 @@ int main()
 	cout << "B =" ;
 	cin >> b;
 	c =sqrt (a *a + b *b);
-
-		cout << "C =" ;
+	cout << "C =" ;
 	cout << c  ;
-
+	 
 }
