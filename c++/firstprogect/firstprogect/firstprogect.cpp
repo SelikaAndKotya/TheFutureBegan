@@ -4,21 +4,21 @@
 #include "stdafx.h"
 #include <iostream>
 #include <math.h>
-using namespace std;
+using namespace std;
+
 
 int main()
 {
 	
 		double a, b, c;
 		cout << "A =";
-		cin >> a;
+		cin >> a; //катет
 		cout << "B =";
-		cin >> b;
-		c = sqrt(a *a + b *b);
+		cin >> b; //еще один
+		c = sqrt(a *a + b *b); //гипотенуза
 		cout << "C =";
 		cout << c << endl;
 		cout << "done";
-		
 		
 		return 0;
 					
