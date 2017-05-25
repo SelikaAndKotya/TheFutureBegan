@@ -17,7 +17,7 @@ int main(int argc, char* argv[])
 		<< dra << endl
 		<< dra << endl;
 	string name;
-	cout << endl << "как тебя зовут?" << endl;
+	cout << endl << "как тебя зовут? Имя вводите латиницей" << endl;
 	cin >> name;
 	cout << "Привет, " << name << ". Я хочу сыграть с тобой в игру." << "Согласна?" <<endl;
 	system("pause");
