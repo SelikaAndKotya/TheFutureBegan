@@ -1,0 +1,4 @@
+﻿  chapter3.cpp
+c:\_github\thefuturebegan\c++\chapter3\chapter3\chapter3.cpp(14): warning C4305: инициализация: усечение из "double" к "f"
+  chapter3.vcxproj -> C:\_github\TheFutureBegan\c++\chapter3\Debug\chapter3.exe
+  chapter3.vcxproj -> C:\_github\TheFutureBegan\c++\chapter3\Debug\chapter3.pdb (Full PDB)
