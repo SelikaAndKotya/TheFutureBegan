@@ -1,3 +1,2 @@
 ﻿  game_million.cpp
-  game_million.vcxproj -> C:\_github\TheFutureBegan\c++\game_million\Debug\game_million.exe
-  game_million.vcxproj -> C:\_github\TheFutureBegan\c++\game_million\Debug\game_million.pdb (Full PDB)
+c:\_github\thefuturebegan\c++\game_million\game_million\game_million.cpp(4): error C2859: C:\_github\TheFutureBegan\c++\game_million\game_million\Debug\vc140.idb не представляет файл idb, который использовался при создании предкомпилированного заголовка; создайте предкомпилированный заголовок заново.
