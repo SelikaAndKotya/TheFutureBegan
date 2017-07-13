@@ -1,0 +1,9 @@
+﻿  million v0.002.cpp
+c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(23): error C2440: =: невозможно преобразовать "const char [100]" в "char"
+  c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(23): note: Не существует контекста, в котором такое преобразование возможно
+c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(24): error C2440: =: невозможно преобразовать "const char [130]" в "char"
+  c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(24): note: Не существует контекста, в котором такое преобразование возможно
+c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(25): error C2440: =: невозможно преобразовать "const char [99]" в "char"
+  c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(25): note: Не существует контекста, в котором такое преобразование возможно
+c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(26): error C2440: =: невозможно преобразовать "const char [88]" в "char"
+  c:\_github\thefuturebegan\c++\million v0.002\million v0.002\million v0.002.cpp(26): note: Не существует контекста, в котором такое преобразование возможно
